@@ -3,4 +3,7 @@
     <string name="how_to_nevigate_a_ship">how_to_nevigate_a_ship</string>
     <string name="show_left_name">show_left_name</string>
     <string name="show_right_name">show_right_name</string>
+    <string name="means_right">MEANS RIGHT</string>
+    <string name="means_left">MEANS LEFT</string>
+    <string name="textview">TextView</string>
 </resources>
